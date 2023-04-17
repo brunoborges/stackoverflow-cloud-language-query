@@ -4,6 +4,10 @@ This dashboard gives us a detailed look at programming language usage within maj
 
 You can access the live dashboard here: https://lookerstudio.google.com/reporting/609991e0-2832-407c-a248-0dae5477865e
 
+## Latest screenshot (2023-04-17)
+
+<img width="1728" alt="Screenshot 2023-04-17 at 10 57 39 AM" src="https://user-images.githubusercontent.com/129743/232594819-36eef92b-97d0-4e16-a046-81d6d13f267e.png">
+
 ## Query
 
 I use the below query to aggregate the data:
